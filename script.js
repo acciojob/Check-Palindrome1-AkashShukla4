@@ -9,6 +9,7 @@ const n = str.length;
 		else{
 			return false;
 		}
+		n--;
 	}
 	return true;
 }
